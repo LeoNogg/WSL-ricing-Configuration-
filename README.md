@@ -7,7 +7,7 @@ I'm keeping everything here as a backup so I can quickly restore my environment 
 ## 📸 Preview
 
 > <img width="1919" height="370" alt="image" src="https://github.com/user-attachments/assets/f86722de-ab38-489f-81d7-3f2184fe73da" />
-*
+
 
 ## ✨ Credits
 
