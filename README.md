@@ -1,4 +1,4 @@
-# WSL-ricing-Configuration-
+# WSL-But-Beautyn-
 
 This repository contains my **WSL - Windows Terminal** configuration and ricing setup.
 
